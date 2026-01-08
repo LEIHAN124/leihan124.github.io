@@ -2,7 +2,7 @@
 title:          "Pinning “Reflection” on the Agenda: Investigating Reflection in Human–LLM Co-Creation for Creative Coding"
 date:           2025-10-18 00:01:00 +0800
 selected:       true
-pub:            "Companion Publication of the 2025 Conference on Computer-Supported Cooperative Work and Social Computing (CSCW 25‘)"
+pub:            "Companion Publication of the 2025 Conference on Computer-Supported Cooperative Work and Social Computing (🇳🇴 CSCW 25‘)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
