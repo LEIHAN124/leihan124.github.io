@@ -12,12 +12,14 @@ abstract: >-
   Spatial orientation is essential for people to effectively navigate and interact with the environment in everyday life. With age-related cognitive decline, providing VR locomotion techniques with better spatial orientation performance for older adults becomes 
 cover:          /assets/images/covers/aq.png
 authors:
-  - Qiongyan Chen
-  - Zhiqing Wu
-  - Yucheng Liu
+  - Anqi Wang
+  - Zhizhuo Yin
+  - Yulu Hu
+  - Yuanyuan Mao
   - Lei Han
-  - Zisu Li
-  - Mingming Fan
+  - Tong Xin
+  - Keqing Jiao
+  - Pan Hui
 links:
-  Code: https://dl.acm.org/doi/abs/10.1145/3678522
+  Code: [https://dl.acm.org/doi/abs/10.1145/3678522](https://dl.acm.org/doi/full/10.1145/3715070.3749234)
 ---
