@@ -5,7 +5,7 @@ navbar_name: "LEI HAN"
 positions:
 - name: Ph.D
 - name: The Hong Kong University of Science and Technology (Guangzhou)
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+  logo: /assets/images/badges/hkust.png  # Logo is optional
 
 
 email: "lhan229@connect.hkust-gz.edu.cn"
@@ -36,13 +36,13 @@ portrait_caption: >-
 
 education:
 - name: he Hong Kong University of Science and Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
+  logo: /assets/images/badges/hkust.png
   position: >- 
     Infomation Hub, Computational Media and Arts
     Ph.D. Student
   date: Sep. 2024 - present
 - name: The Hong Kong University of Science and Technology
-  logo: /assets/images/badges/cafa.png
+  logo: /assets/images/badges/hkust.png
   position: M.Phil.
   date: Sep. 2022 - Jul. 2024
 - name: Central Academy of Fine Arts，CAFA
