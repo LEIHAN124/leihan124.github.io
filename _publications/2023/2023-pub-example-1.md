@@ -10,7 +10,7 @@ cover:          /assets/images/covers/cover1.jpg
 authors:
 - Mingnan We
 - Yu Zhou
-- Lei Han*
+- Lei Han
 
 links:
   Paper: https://dl.acm.org/doi/abs/10.1145/3615522.3615577
