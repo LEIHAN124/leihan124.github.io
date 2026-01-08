@@ -21,5 +21,5 @@ authors:
   - Keqing Jiao
   - Pan Hui
 links:
-  Code: [https://dl.acm.org/doi/abs/10.1145/3678522](https://dl.acm.org/doi/full/10.1145/3715070.3749234)
+  Code: https://dl.acm.org/doi/full/10.1145/3715070.3749234
 ---
