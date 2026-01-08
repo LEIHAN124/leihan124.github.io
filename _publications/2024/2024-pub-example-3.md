@@ -19,5 +19,5 @@ authors:
   - Zisu Li
   - Mingming Fan
 links:
-  Code: https://dl.acm.org/doi/abs/10.1145/3678522
+  Paper: https://dl.acm.org/doi/abs/10.1145/3678522
 ---
