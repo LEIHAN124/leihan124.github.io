@@ -22,7 +22,7 @@ twitter: your_twitter_id  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-I am a second-year Ph.D. student, supervised by [David Yip](https://www.daveyip.com).
+I am a second-year Ph.D. student, supervised by [David Yip](https://history.siggraph.org/person/dr-david-kei-man-yip/).
     <p>
  My research focuses on Human-Centered Computing, aiming to understand and model how technology shapes human behavior and societal dynamics. I am particularly interested in interactive AI for digital cultural heritage, including AIGC-enabled experiences for heritage interpretation, storytelling, and preservation.
   </p>
