@@ -1,1 +1,23 @@
-
+---
+title:          "Pinning “Reflection” on the Agenda: Investigating Reflection in Human–LLM Co-Creation for Creative Coding"
+date:           2024-10-18 00:01:00 +0800
+selected:       true
+pub:            "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (Ubicomp 24‘)"
+# pub_pre:        "Submitted to "
+# pub_post:       'Under review.'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_date:       "2024"
+semantic_scholar_id: 204e3073870fae3d05bcbc2f6a8e263d9b72e776  # use this to retrieve citation count
+abstract: >-
+   Large language models (LLMs) are increasingly integrated into creative coding, yet how users reflect, and how different co-creation conditions influence reflective behavior, remains underexplored. This study investigates situated, moment-to-moment reflection in creative coding under two prompting strategies: the entire task invocation (T1) and decomposed subtask invocation (T2), to examine their effects on reflective behavior. Our mixed-method results reveal three distinct reflection types and show that T2 encourages more frequent, strategic, and generative reflection, fostering diagnostic reasoning and goal redefinition. These findings offer insights into how LLM-based tools foster deeper creative engagement through structured, behaviorally grounded reflection support.
+cover:          /assets/images/covers/qy.png
+authors:
+  - Qiongyan Chen
+  - Zhiqing Wu
+  - Yucheng Liu
+  - Lei Han
+  - Zisu Li
+  - Mingming Fan
+links:
+  Code: https://dl.acm.org/doi/abs/10.1145/3678522
+---
