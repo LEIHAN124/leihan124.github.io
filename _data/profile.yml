@@ -36,17 +36,17 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: 📑 The Hong Kong University of Science and Technology (Guangzhou)
+- name: The Hong Kong University of Science and Technology (Guangzhou)
   logo: /assets/images/badges/hkust.png
   position: >- 
     Infomation Hub, Computational Media and Arts
     Ph.D. Student
   date: Sep. 2024 – Jul. 2027 (expected)
-- name: 🎓 The Hong Kong University of Science and Technology
+- name: The Hong Kong University of Science and Technology
   logo: /assets/images/badges/hkust.png
   position: M.Phil.
   date: Sep. 2022 - Jul. 2024
-- name: 🎓 Central Academy of Fine Arts
+- name: Central Academy of Fine Arts
   logo: /assets/images/badges/cafa.png
   position: B.S. in Information Design
   date: Sep. 2016 - Jul. 2019
