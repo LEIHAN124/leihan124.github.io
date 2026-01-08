@@ -7,7 +7,7 @@ pub:            "Companion Publication of the 2025 Conference on Computer-Suppor
 # pub_post:       'Under review.'
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2024"
-semantic_scholar_id: 204e3073870fae3d05bcbc2f6a8e263d9b72e776  # use this to retrieve citation count
+# semantic_scholar_id: 204e3073870fae3d05bcbc2f6a8e263d9b72e776  # use this to retrieve citation count
 abstract: >-
   Spatial orientation is essential for people to effectively navigate and interact with the environment in everyday life. With age-related cognitive decline, providing VR locomotion techniques with better spatial orientation performance for older adults becomes 
 cover:          /assets/images/covers/aq.png
