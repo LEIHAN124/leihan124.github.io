@@ -1,20 +1,20 @@
 ---
-title: "Gen-Diaolou: An Integrated AI-Assisted Interactive System for Diachronic Understanding and Preservation of the Kaiping Diaolou"
-date: "2026-04-12 00:01:00 +0800"
+title: "Eye2Recall: Exploring the Design of Enhancing Reminiscence Activities via Eye Tracking-Based LLM-Powered Interaction Experience for Older Adults"
+date: "2026-03-21 00:01:00 +0800"
 selected: true
-pub: "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (🇪🇸 CHI 26‘)"
+pub: "Proceedings of the 2026 The Annual ACM Conference on Intelligent User Interfaces (🇨🇾 IUI 26‘)"
 pub_date: "2026"
 abstract: >-
-  The Kaiping Diaolou and Villages, a UNESCO World Heritage Site, exemplify hybrid Chinese and Western architecture shaped by migration culture. However, architectural heritage engagement often faces authenticity debates, resource constraints, and limited participatory approaches. This research explores current challenges of leveraging Artificial Intelligence (AI) for architectural heritage, and how AI-assisted interactive systems can foster cultural heritage understanding and preservation awareness. We conducted a formative study (N=14) to uncover empirical insights from heritage stakeholders that inform design. These insights informed the design of Gen-Diaolou, an integrated AI-assisted interactive system that supports heritage understanding and preservation. A pilot study (N=18) and a museum field study (N=26) provided converging evidence suggesting that Gen-Diaolou may support visitors' diachronic understanding and preservation awareness, and together informed design implications for future human-AI collaborative systems for digital cultural heritage engagement. More broadly, this work bridges the research gap between passive heritage systems and unconstrained creative tools in the HCI domain.
-cover: /assets/images/covers/Frame 86-7.png
+  Photo-based reminiscence has the potential to have a positive impact on older adults' reconnection with their personal history and improve their well-being. Supporting reminiscence in older adults through technological implementations is becoming an increasingly important area of research in the fields of HCI and CSCW. However, the impact of integrating gaze and speech as mixed-initiative interactions in LLM-powered reminiscence conversations remains under-explored. To address this, we conducted expert interviews to understand the challenges that older adults face with LLM-powered, photo-based reminiscence experiences. Based on these design considerations, we developed Eye2Recall, a system that integrates eye tracking for detecting visual interest with natural language interaction to create a mixed-initiative reminiscence experience. We evaluated its effectiveness through a user study involving ten older adults. The results have important implications for the future design of more accessible and empowering reminiscence technologies that better align with older adults' natural interaction patterns and enhance their positive aging.
+cover: /assets/images/covers/5.png
 authors:
   - "<strong>Lei HAN</strong>"
-  - Yi GAO
-  - Xuanchen LU
-  - Bingyuan WANG
-  - Lujin ZHANG
-  - Zeyu WANG
+  - Mingnan WEI
+  - Qiongyan CHEN
+  - Anqi WANG
+  - Kefei LIU
+  - Rongrong CHEN
   - David Yip
 links:
-  Paper: "https://arxiv.org/abs/2602.03095"
+  Paper: "https://arxiv.org/abs/2508.02232"
 ---
