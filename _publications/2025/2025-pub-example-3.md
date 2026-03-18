@@ -16,7 +16,7 @@ authors:
   - Zhizhuo Yin
   - Yulu Hu
   - Yuanyuan Mao
-  - Lei Han
+  - "<strong>Lei HAN</strong>"
   - Tong Xin
   - Keqing Jiao
   - Pan Hui
