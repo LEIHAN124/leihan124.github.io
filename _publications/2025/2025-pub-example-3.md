@@ -9,7 +9,7 @@ pub:            "Proceedings of the 2025 Conference on Computer-Supported Cooper
 pub_date:       "2025"
 # semantic_scholar_id: 204e3073870fae3d05bcbc2f6a8e263d9b72e776  # use this to retrieve citation count
 abstract: >-
-  Spatial orientation is essential for people to effectively navigate and interact with the environment in everyday life. With age-related cognitive decline, providing VR locomotion techniques with better spatial orientation performance for older adults becomes 
+  Large language models (LLMs) are increasingly integrated into creative coding, yet how users reflect, and how different co-creation conditions influence reflective behavior, remains underexplored. This study investigates situated, moment-to-moment reflection in creative coding under two prompting strategies: the entire task invocation (T1) and decomposed subtask invocation (T2), to examine their effects on reflective behavior. Our mixed-method results reveal three distinct reflection types and show that T2 encourages more frequent, strategic, and generative reflection, fostering diagnostic reasoning and goal redefinition. These findings offer insights into how LLM-based tools foster deeper creative engagement through structured, behaviorally grounded reflection support.
 cover:          /assets/images/covers/aq.png
 authors:
   - Anqi Wang
