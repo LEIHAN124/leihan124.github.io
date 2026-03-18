@@ -1,16 +1,12 @@
 ---
-title:          "Gen-Diaolou: An Integrated AI-Assisted Interactive System for Diachronic Understanding and Preservation of the Kaiping Diaolou"
-date:           2026-4-12 00:01:00 +0800
-selected:       true
-pub:            "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (🇪🇸 CHI 26‘)"
-# pub_pre:        "Submitted to "
-# pub_post:       'Under review.'
-# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
-pub_date:       "2026"
-# semantic_scholar_id: 204e3073870fae3d05bcbc2f6a8e263d9b72e776  # use this to retrieve citation count
+title: "Gen-Diaolou: An Integrated AI-Assisted Interactive System for Diachronic Understanding and Preservation of the Kaiping Diaolou"
+date: "2026-04-12 00:01:00 +0800"
+selected: true
+pub: "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI 2026)"
+pub_date: "2026"
 abstract: >-
   The Kaiping Diaolou and Villages, a UNESCO World Heritage Site, exemplify hybrid Chinese and Western architecture shaped by migration culture. However, architectural heritage engagement often faces authenticity debates, resource constraints, and limited participatory approaches. This research explores current challenges of leveraging Artificial Intelligence (AI) for architectural heritage, and how AI-assisted interactive systems can foster cultural heritage understanding and preservation awareness. We conducted a formative study (N=14) to uncover empirical insights from heritage stakeholders that inform design. These insights informed the design of Gen-Diaolou, an integrated AI-assisted interactive system that supports heritage understanding and preservation. A pilot study (N=18) and a museum field study (N=26) provided converging evidence suggesting that Gen-Diaolou may support visitors' diachronic understanding and preservation awareness, and together informed design implications for future human-AI collaborative systems for digital cultural heritage engagement. More broadly, this work bridges the research gap between passive heritage systems and unconstrained creative tools in the HCI domain.
-cover:          /assets/images/covers/diaolou.png
+cover: /assets/images/covers/diaolou.png
 authors:
   - Lei HAN
   - Yi GAO
