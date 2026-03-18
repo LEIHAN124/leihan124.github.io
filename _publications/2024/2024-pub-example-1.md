@@ -12,7 +12,7 @@ abstract: >-
   We present our approach to using AI-generated content (AIGC) and multiple media to develop an immersive, game-based, interactive story experience. The narrative of the story, "Memory Remedy", unfolds through flashbacks, allowing the audience to gradually uncover the story and the complex relationship between the robot protagonist and the older adults. This exploration explores important themes such as the journey of life, the profound influence of memories, and the concept of post-human emotional care. By engaging with this AIGC-based interactive story, audiences are encouraged to reflect on the potential role of robotic companionship in the lives of older adults in the future, and to encourage deeper reflection on the complex relationship between artificial intelligence and humanity.
 cover:          /assets/images/covers/tw.png
 authors:
-  - Lei Han
+  - "<strong>Lei HAN</strong>"
   - Yu Zhou
   - Qiongyan Chen
   - David Yip
