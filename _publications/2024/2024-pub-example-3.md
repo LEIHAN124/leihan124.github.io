@@ -15,7 +15,7 @@ authors:
   - Qiongyan Chen
   - Zhiqing Wu
   - Yucheng Liu
-  - Lei Han
+  - "<strong>Lei HAN</strong>"
   - Zisu Li
   - Mingming Fan
 links:
