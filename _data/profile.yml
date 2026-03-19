@@ -16,10 +16,9 @@ xiaohonghsu: ""
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a second-year Ph.D. student, supervised by Prof.
-    <a href="https://history.siggraph.org/person/dr-david-kei-man-yip/" target="_blank">David Yip</a>
-    and Prof. Anca-Simona Horvath. My work has appeared in major journals and conferences in HCI and related fields, including IMWUT, CHI, CSCW, IUI, and DIS.
-  </p>
+    I am a second-year Ph.D. student in the Computational Media and Arts Thrust, Information Hub, at The Hong Kong University of Science and Technology (Guangzhou), supervised by Prof.
+  <a href="https://history.siggraph.org/person/dr-david-kei-man-yip/" target="_blank">David Yip</a>
+  and Prof. Anca-Simona Horvath. My research has been published in leading journals and conferences in HCI and related fields, including IMWUT, CHI, CSCW, IUI, and DIS.
   <p>
     My research focuses on Human-Centered Computing, aiming to understand and model how technology shapes human behavior and societal dynamics. I am particularly interested in interactive AI for digital cultural heritage, including AIGC-enabled experiences for heritage interpretation, storytelling, and preservation. 
   </p>
@@ -33,7 +32,7 @@ education:
 - name: HKUST(GZ)
   logo: /assets/images/badges/hkust.png
   position: >- 
-    Ph.D. Student, Computational Media and Arts, Infomation Hub.
+    Ph.D. Student.
   date: Sep. 2024 – Jul. 2027 (expected)
 - name: HKUST
   logo: /assets/images/badges/hkust.png
