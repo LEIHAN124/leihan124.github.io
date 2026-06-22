@@ -9,7 +9,6 @@ pub:            "Proceedings of the 17th International Symposium on Visual Infor
 pub_date:       "2024"
 # semantic_scholar_id: 204e3073870fae3d05bcbc2f6a8e263d9b72e776  # use this to retrieve citation count
 abstract: >-
- # We present our approach to using AI-generated content (AIGC) and multiple media to develop an immersive, game-based, interactive story experience. The narrative of the story, "Memory Remedy", unfolds through flashbacks, allowing the audience to gradually uncover the story and the complex relationship between the robot protagonist and the older adults. This exploration explores important themes such as the journey of life, the profound influence of memories, and the concept of post-human emotional care. By engaging with this AIGC-based interactive story, audiences are encouraged to reflect on the potential role of robotic companionship in the lives of older adults in the future, and to encourage deeper reflection on the complex relationship between artificial intelligence and humanity.
   We present an AIGC-powered, multimodal interactive storytelling experience called *Memory Remedy*. Through a flashback-based narrative, audiences gradually uncover the relationship between a robot protagonist and older adults. The story explores themes of life, memory, and post-human care, encouraging reflection on the future role of robotic companionship and the relationship between AI and humanity.
 
 cover:          /assets/images/covers/tw.png
