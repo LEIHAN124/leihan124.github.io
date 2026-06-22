@@ -2,7 +2,7 @@
 title:          "Memory Remedy: An AI-Enhanced Interactive Story Exploring Human-Robot Interaction and Companionship"
 date:           2024-12-12 00:01:00 +0800
 selected:       true
-pub:            "Proceedings of the 17th International Symposium on Visual Information Communication and Interaction (VINCI 24‘)"
+pub:            "Proceedings of the 17th International Symposium on Visual Information Communication and Interaction (VINCI 24‘) Taiwan"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
