@@ -5,7 +5,8 @@ selected: true
 pub: "Proceedings of the 2026 The Annual ACM Conference on Intelligent User Interfaces (🇨🇾 IUI 26‘)"
 pub_date: "2026"
 abstract: >-
-  Photo-based reminiscence has the potential to have a positive impact on older adults' reconnection with their personal history and improve their well-being. Supporting reminiscence in older adults through technological implementations is becoming an increasingly important area of research in the fields of HCI and CSCW. However, the impact of integrating gaze and speech as mixed-initiative interactions in LLM-powered reminiscence conversations remains under-explored. To address this, we conducted expert interviews to understand the challenges that older adults face with LLM-powered, photo-based reminiscence experiences. Based on these design considerations, we developed Eye2Recall, a system that integrates eye tracking for detecting visual interest with natural language interaction to create a mixed-initiative reminiscence experience. We evaluated its effectiveness through a user study involving ten older adults. The results have important implications for the future design of more accessible and empowering reminiscence technologies that better align with older adults' natural interaction patterns and enhance their positive aging.
+  We present Eye2Recall, an LLM-powered reminiscence system that combines eye tracking and natural language interaction to support older adults' photo-based reminiscence. Informed by expert interviews, the system uses gaze to identify visual interests and facilitate mixed-initiative conversations. A user study with ten older adults suggests that Eye2Recall can provide a more natural and engaging reminiscence experience, offering insights for the design of accessible AI-supported technologies for positive aging.
+
 cover: /assets/images/covers/5.png
 authors:
   - "<strong>Lei HAN</strong>"
