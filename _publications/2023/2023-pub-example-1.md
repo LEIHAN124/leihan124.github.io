@@ -5,7 +5,8 @@ selected:       true
 pub:            "Proceedings of the 16th International Symposium on Visual Information Communication and Interaction (VINCI 23‘)"
 pub_date:       "2023"
 abstract: >-
-  With its unique form of expression and powerful interactivity, virtual reality (VR) art has brought new possibilities for artistic creation and audience experience. It broadens the boundaries of artistic expression, promotes interdisciplinary cooperation, raises the audience’s attention to social issues, and promotes the popularization of aesthetic education. The study developed a visual narrative based on the text of the poetry collection as a virtual experience game to discuss the social issues of the relationship between labor and social networks in the context of today’s technological innovation. Experience highly empathetic artistic storytelling through VR games and how to connect the virtual and physical worlds through textual expression and visual effects. The study realizes the VR linear narrative experience with poems as clues to promote narrative VR interactive experience.
+  This work explores the use of VR art and interactive storytelling to create an immersive narrative experience based on a poetry collection. Through a VR game, the project examines the relationship between labor and social networks in the context of technological innovation. By combining textual expression, visual effects, and empathetic storytelling, the experience connects virtual and physical worlds while demonstrating the potential of poetry-driven VR narratives.
+
 cover:          /assets/images/covers/zy.png
 authors:
 - Mingnan We
