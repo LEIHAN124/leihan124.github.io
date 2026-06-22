@@ -43,11 +43,11 @@ education:
   position: B.S. in Information Design
   date: Sep. 2016 - Jul. 2019
 
-# teaching:
-* course: UCUG 1503 Introduction to Experimental Animation
+teaching:
+- course: 📖 UCUG 1503 Introduction to Experimental Animation
   role: Teaching Assistant
   date: 2024-25 Spring
-* course: CMAA 6019J City as Canvas: Art & Technology in Public Space
+- course:  📖 CMAA 6019J City as Canvas: Art & Technology in Public Space
   role: Teaching Assistant
   date: 2025-26 Spring
 
