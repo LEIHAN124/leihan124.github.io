@@ -17,5 +17,11 @@ authors:
   - David Yip
 links:
   Paper: "https://arxiv.org/abs/2508.02232"
-Citation: "/assets/bibtex/eye2recall.bib"
+Citation: 
+  @inproceedings{han2026eye2recall,
+    author = {Han, Lei and Wei, Mingnan and Chen, Qiongyan and Wang, Anqi and Liu, Kefei and Chen, Rongrong and Yip, David},
+    title = {Eye2Recall: Exploring the Design of Enhancing Reminiscence Activities via Eye Tracking-Based LLM-Powered Interaction Experience for Older Adults},
+    booktitle = {Proceedings of the 2026 ACM Conference on Intelligent User Interfaces},
+    year = {2026}
+  }
 ---
