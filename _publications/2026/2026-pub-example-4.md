@@ -17,5 +17,5 @@ authors:
   - Zeyu WANG
   - David Yip
 links:
-  Paper: "https://arxiv.org/abs/2602.03095"
+  Paper: "https://dl.acm.org/doi/full/10.1145/3772318.3790720"
 ---
